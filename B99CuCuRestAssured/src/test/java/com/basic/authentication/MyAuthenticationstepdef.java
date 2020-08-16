@@ -24,7 +24,7 @@ public class MyAuthenticationstepdef {
 	@Then("^user checks the status code$")
 	public void user_checks_the_status_code(){
 		
-		int statCode = resp.getStatusCode();
+		int statusCode = resp.getStatusCode();
 		Assert.assertEquals(201, statCode);
 		
 		
