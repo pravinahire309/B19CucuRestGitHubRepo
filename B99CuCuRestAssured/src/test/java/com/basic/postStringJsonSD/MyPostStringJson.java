@@ -52,19 +52,5 @@ public class MyPostStringJson {
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }
  
